@@ -5,9 +5,8 @@ Business Analytics Graduate Student
 -----------------------------------
 
 A proactive MSc in Business Analytics student at the American University of Beirut with strong academic achievements and relevant experience. Possess strong leadership and communication skills in English, French, and Arabic. Passionate about data, how to manipulate it, and how to analyze it for strategic and research purposes. I currently focus on improving my data modeling and manipulation skills using various tools such as Excel, R, SQL, and Python.
-
+<!-- * 🖥️  See my portfolio at [My Portfolio](http://romanos-rizk.github.io/portfolio/) -->
 * 🌍  I'm based in Beirut
-* 🖥️  See my portfolio at [My Portfolio](http://romanos-rizk.github.io/portfolio/)
 * ✉️  You can contact me at [rizkromanos@outlook.com](mailto:rizkromanos@outlook.com)
 * 🚀  I'm currently working on [an AI project](LLM-RAG-System-for-News-Article-Classification-Project)
 * 🧠  I'm learning SQL, Numpy, Pandas, Seaborn, LLM
