@@ -9,8 +9,8 @@ A proactive MSc in Business Analytics student at the American University of Beir
 * 🌍  I'm based in Beirut
 * 🖥️  See my portfolio at [My Portfolio](http://romanos-rizk.github.io/portfolio/)
 * ✉️  You can contact me at [rizkromanos@outlook.com](mailto:rizkromanos@outlook.com)
-* 🚀  I'm currently working on [My Capstone Project](http://github.com/Romanos-Rizk/MSBA-Capstone)
-* 🧠  I'm learning SQL, Numpy, Pandas, Seaborn
+* 🚀  I'm currently working on [an AI project](LLM-RAG-System-for-News-Article-Classification-Project)
+* 🧠  I'm learning SQL, Numpy, Pandas, Seaborn, LLM
 * 🤝  I'm open to collaborating on Machine Learning based Projects
 
 ### Skills
